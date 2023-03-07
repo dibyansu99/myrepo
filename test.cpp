@@ -2,6 +2,11 @@
 
 void bubblesort(){
 	//bubblesort branch;
+	
+}
+void quicksort(){
+	//quicksort;
+
 }
 int main(){
 	std::cout<<"Hello world";
